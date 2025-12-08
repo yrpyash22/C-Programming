@@ -1,0 +1,13 @@
+		First student Information 
+Student name :Shivani
+Student age :19
+Student cgpa :9.500000
+Student Rolln. =902226626
+Student college :Prestige
+
+		Second student Information 
+Student name :Yashraj
+Student age :19
+Student cgpa :9.500000
+Student Rolln. =902231136
+Student college :Rustamji
